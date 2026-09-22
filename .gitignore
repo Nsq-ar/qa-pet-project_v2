@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Test / report artifacts
+allure-results/
+allure-history/
+allure-report/
+.pytest_cache/
+
+# Playwright
+node_modules/
+test-results/
+playwright-report/
+
+# IDE
+.idea/
+.vscode/
